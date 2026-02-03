@@ -1,2 +1,1 @@
-# Reaper-ZOOM-ImportAction
-Herramienta para importar rápidamente archivos de grabadoras ZOOM en el DAW Reaper.
+Herramienta para importar rápidamente archivos de grabadoras ZOOM en Reaper. Importa las tomas de grabadoras ZOOM desde subcarpetas ZOOMXXXX a REAPER, colocando las pistas de cada carpeta con el mismo tiempo de inicio y avanzando la línea de tiempo según la duración de cada toma. Hecho con GitHub Copilot.
